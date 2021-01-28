@@ -4,6 +4,15 @@
 The journey is the reward.
 
 
+## Applications
+
+- [Lotrio-Qt](https://github.com/lotriolabs/lotrio-qt)  
+  An open source visualization tool written in Qt for C++ and designed for easy creation and graphical representation of lottery data.
+
+- [Lotrio-QtPy](https://github.com/lotriolabs/lotrio-qtpy)  
+  An open source visualization tool written in Qt for Python and designed for easy creation and graphical representation of lottery data.
+
+
 ## Copyright
 
 Copyright &copy; 2020 [NotNypical](https://notnypical.github.io).
